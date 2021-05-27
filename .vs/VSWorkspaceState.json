@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Acme",
+    "\\Acme\\Acme"
   ],
-  "SelectedNode": "\\C:\\Users\\paul_\\Source\\Repos\\C_Sharp_Projects",
+  "SelectedNode": "\\Acme\\Acme\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
