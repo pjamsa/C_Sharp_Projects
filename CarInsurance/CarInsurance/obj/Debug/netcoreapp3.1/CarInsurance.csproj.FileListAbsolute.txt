@@ -1,0 +1,12 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\bin\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\CarInsurance\CarInsurance\obj\Debug\netcoreapp3.1\CarInsurance.genruntimeconfig.cache
