@@ -1,0 +1,12 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\bin\Debug\netcoreapp3.1\IncomeProgram.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IncomeProgram\IncomeProgram\obj\Debug\netcoreapp3.1\IncomeProgram.genruntimeconfig.cache
