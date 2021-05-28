@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\bin\Debug\netcoreapp3.1\UserEquations.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\.git\UserEquations\UserEquations\obj\Debug\netcoreapp3.1\UserEquations.genruntimeconfig.cache
