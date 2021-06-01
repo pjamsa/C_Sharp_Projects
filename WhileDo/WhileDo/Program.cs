@@ -6,6 +6,7 @@ namespace WhileDo
     {
         static void Main(string[] args)
         {
+            //While loop 
             int number = 0;
             while (number < 10)
             {
@@ -13,6 +14,7 @@ namespace WhileDo
                 number++;
             }
 
+            //do while loop
             int num = 10;
             do
             {
