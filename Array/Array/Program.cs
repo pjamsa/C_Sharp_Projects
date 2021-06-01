@@ -28,7 +28,7 @@ namespace Array
             Console.WriteLine("\nPlease choose a number between 0 and 4 to see a random number...");
             int userNum = Convert.ToInt32(Console.ReadLine());
 
-            //if user selects a number greater than 3 they will get this message
+            //if user selects a number greater than 4 they will get this message
             // and application will close
 
             if (userNum > 4)
