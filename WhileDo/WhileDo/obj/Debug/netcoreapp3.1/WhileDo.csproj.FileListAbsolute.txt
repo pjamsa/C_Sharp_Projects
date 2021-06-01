@@ -1,0 +1,12 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\bin\Debug\netcoreapp3.1\WhileDo.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\WhileDo\WhileDo\obj\Debug\netcoreapp3.1\WhileDo.genruntimeconfig.cache
