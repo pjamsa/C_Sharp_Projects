@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\bin\Debug\netcoreapp3.1\IntegersAssignment.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.genruntimeconfig.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\IntegersAssignment\IntegersAssignment\obj\Debug\netcoreapp3.1\IntegersAssignment.csproj.AssemblyReference.cache
