@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\netcoreapp3.1\ConsoleAssignment.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\netcoreapp3.1\ConsoleAssignment.genruntimeconfig.cache
