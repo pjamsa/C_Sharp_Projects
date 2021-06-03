@@ -6,27 +6,26 @@ namespace MainMethod
 {
     class Thing
     {
-        //Method Overloading Class Methods
+        //C# takes passed parameters and runs them through
+        //equation and returns the result
         public int Add(int x)
         {
             int result = x + 1000;
             return result;
         }
-        
-        public double Add(double x)
+        //converts decimal to integer 
+        public int Add(decimal x)
         {
-            double result = x + 300;
+            decimal equation = x + 300;
+            int result = Convert.ToInt32(equation);
             return result;
         }
-        
-        public string Add(string x)
+        //converts string to integer
+        public int Add(string x)
         {
-            //have to change string value to an integer
             int change = Convert.ToInt32(x);
             int result = change + 100;
-            // compiler cannot implicitly change int to string
-            //that's why i had to add .ToString(); 
-            return result.ToString();
+            return result;
         }
 
     }

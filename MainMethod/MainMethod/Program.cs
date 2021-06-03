@@ -6,13 +6,15 @@ namespace MainMethod
     {
         static void Main(string[] args)
         {
-            // create object 
+            // creates object 
             Thing myObj = new Thing();
 
-            // passing values to methods and then printing the response to the application
+            //Passes parameter to method and then displays the return result
             Console.WriteLine(myObj.Add(6));
-            Console.WriteLine(myObj.Add(3.2));
+            Console.WriteLine(myObj.Add(300.5m));
             Console.WriteLine(myObj.Add("100"));
+
+
 
         }
     }
