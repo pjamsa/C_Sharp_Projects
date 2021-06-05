@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\bin\Debug\netcoreapp3.1\MethodsandObjects.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\MethodsandObjects\MethodsandObjects\obj\Debug\netcoreapp3.1\MethodsandObjects.genruntimeconfig.cache
