@@ -12,6 +12,8 @@ namespace AbstactClass
 
             //calling abstract method
             employee.SayName();
+
+            employee.Quit();
         }
     }
 }
