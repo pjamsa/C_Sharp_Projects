@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\bin\Debug\netcoreapp3.1\AbstactClass.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.genruntimeconfig.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\AbstactClass\AbstactClass\obj\Debug\netcoreapp3.1\AbstactClass.csproj.AssemblyReference.cache
