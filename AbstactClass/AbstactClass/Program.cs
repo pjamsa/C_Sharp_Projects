@@ -13,7 +13,9 @@ namespace AbstactClass
             //calling abstract method
             employee.SayName();
 
-            employee.Quit();
+            IQuittable iquittable = new Employee();
+            iquittable.Quit();
+
         }
     }
 }
