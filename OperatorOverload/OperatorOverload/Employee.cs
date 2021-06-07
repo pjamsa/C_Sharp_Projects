@@ -13,5 +13,9 @@ namespace OperatorOverload
         {
             return true;
         }
+        public static bool operator !=(ID1, ID2)
+        {
+            return false;
+        }
     }
 }
