@@ -6,15 +6,20 @@ namespace OperatorOverload
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee emp1 = new Employee();
+            Employee emp2 = new Employee();
 
-            employee.ID1 = 3015;
-            employee.ID2 = 3016;
+            emp1.ID = 3015;
+            emp2.ID = 3016;
 
-            if (employee.ID1 == employee.ID2)
-                Console.WriteLine("ID1 and ID2 are equal");
-            else
-                Console.WriteLine("ID1 and ID2 are not equal");
+
+            Console.WriteLine(emp1 == emp2);
+            
+            
+            //if (emp1 == emp2)
+            //    Console.WriteLine("ID1 and ID2 are equal");
+            //else
+            //    Console.WriteLine("ID1 and ID2 are not equal");
 
             
        

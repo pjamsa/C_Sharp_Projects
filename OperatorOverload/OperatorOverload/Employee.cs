@@ -6,16 +6,22 @@ namespace OperatorOverload
 {
     class Employee
     {
-        public int ID1;
-        public int ID2;
+        public int ID;
 
-        public static bool operator ==(Employee ID1, Employee ID2)
+
+        public static bool operator ==(Employee x, Employee y)
         {
-            return true;
+            if (x.ID == y.ID)
+                return true;
+            else
+                return false;
         }
-        public static bool operator !=(Employee ID1, Employee ID2)
+        public static bool operator !=(Employee x, Employee y)
         {
-            return false;
+            if (x.ID != y.ID)
+                return true;
+            else
+                return false;
         }
     }
 }
