@@ -1,0 +1,4 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\OperatorOverload\OperatorOverload\obj\Debug\netcoreapp3.1\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\OperatorOverload\OperatorOverload\obj\Debug\netcoreapp3.1\OperatorOverload.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\OperatorOverload\OperatorOverload\obj\Debug\netcoreapp3.1\OperatorOverload.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\OperatorOverload\OperatorOverload\obj\Debug\netcoreapp3.1\OperatorOverload.csproj.CoreCompileInputs.cache
