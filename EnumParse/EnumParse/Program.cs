@@ -26,7 +26,7 @@ namespace EnumParse
             {
                 // if possible converts user input to enum 
                day = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), value);
-                Console.WriteLine(userDay + " was recorded.  Thank you for your input.");
+                Console.WriteLine(day + " was recorded.  Thank you for your input.");
             }
             //gives user an error message if their input doesn't match
             catch (Exception ex)
