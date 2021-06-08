@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LambdaAssignment
 {
@@ -30,15 +31,15 @@ namespace LambdaAssignment
                 }
             }
 
-            List<Employee> newList2 = new List<Employee>();
-            Employee emp = newList.Add(x => x.FirstName == "Joe"});       
+            // new list using lambda to find all employees named Joe
+            List<Employee> newList2 = employees.Where(x => x.FirstName == "Joe").ToList();
             
-            //var emp2 = employees.FindAll(x => x.FirstName == "Joe");  
+            //new list using lambda to find all employees with an ID greater than 5.
+            List<Employee> newList3 = employees.Where(x => x.ID > 5).ToList();
 
-            //foreach (var emp in emp2)
-            //{
-            //    Console.WriteLine(emp);
-            //}
+            
+            
+         
             
             
 

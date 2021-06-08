@@ -10,6 +10,7 @@ namespace LambdaAssignment
         public string LastName { get; set; }
         public int ID { get; set; }
 
+        // Had to override ToString() method to provide information
         public override string ToString()
         {
             return "FirstName: " + FirstName + " LastName: " + LastName + " ID: " + ID;
