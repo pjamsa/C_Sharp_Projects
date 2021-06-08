@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\bin\Debug\netcoreapp3.1\EnumParse.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.genruntimeconfig.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\EnumParse\EnumParse\obj\Debug\netcoreapp3.1\EnumParse.csproj.AssemblyReference.cache
