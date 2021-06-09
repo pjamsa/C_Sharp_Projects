@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\bin\Debug\netcoreapp3.1\Input.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\Input\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache
