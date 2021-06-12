@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Casino
 {
-    class Player
+    public class Player
     {
         public Player(string name, int beginningBalance)
         {

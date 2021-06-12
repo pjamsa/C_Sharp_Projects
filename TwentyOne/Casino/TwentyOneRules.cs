@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Casino.TwentyOne
 {
-    class TwentyOneRules
+    public class TwentyOneRules
     {
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {

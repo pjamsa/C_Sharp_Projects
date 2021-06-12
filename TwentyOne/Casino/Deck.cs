@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Casino
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {
