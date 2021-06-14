@@ -1,0 +1,13 @@
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.exe
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.deps.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.runtimeconfig.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.runtimeconfig.dev.json
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\bin\Debug\netcoreapp3.1\ChainConstructor.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.AssemblyInfo.cs
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.dll
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.pdb
+C:\Users\paul_\source\repos\pjamsa\C_Sharp_Projects\ChainConstructor\ChainConstructor\obj\Debug\netcoreapp3.1\ChainConstructor.genruntimeconfig.cache
