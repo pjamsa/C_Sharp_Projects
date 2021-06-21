@@ -10,6 +10,7 @@
     <li>Shipping Quote</li>
     <li>Daily Report</li>
     <li>Income Program</li>
+    <li>Date Time</li>
   </ul>
   
 <h2>Car Insurance</h2>
@@ -29,3 +30,7 @@ This project uses a console app to ask users for input at the end of the day. Th
   
 <h2>Income Program</h2>
 In this project I used a console app to ask users for information about their income.  The app will compare the users data to a second users data and will determine which user makes more money.  
+
+<h2>Date Time</h2>
+This application displays the current Date and Time (DateTime.Now) and then asks the user to input a number.  The application then converts the user number into hours and adds them to the current time and displays the future time in the console.   
+
