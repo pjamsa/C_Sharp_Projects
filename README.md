@@ -12,8 +12,8 @@
     <li>Income Program</li>
   </ul>
   
-<h4>Car_Insurance</h4>
+<h2>Car Insurance</h2>
 This project has users fill out a form online and will calculate an accurate car insurance quote based on the user's age, vehicle, and driving record.
 
-<h4>Twenty One</h4>
+<h2>Twenty One</h2>
 This project contains a fully functioning game of 21 using C# in a console application.  
