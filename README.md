@@ -13,7 +13,7 @@
   </ul>
   
 <h2>Car Insurance</h2>
-This project has users fill out a form online and will calculate an accurate car insurance quote based on the user's age, vehicle, and driving record.
+In this project I used C# and the MVC and ASP.NET framework to create a website and database for car insurance companies. This website allows users to fill out a form online and will calculate an accurate car insurance quote based on the user's age, vehicle, and driving record. I also built a view that allows site administrators to see all of the quotes as well as the associated names and email addresses tied to the insurance quote. 
 
 <h2>Twenty One</h2>
-This project contains a fully functioning game of 21 using C# in a console application.  
+This project contains a fully functioning card game of 21 using C# in a console application.  The game automatically shuffles cards and allows users to play the dealer as long as they have enough money.  This game contains many fundamentals of Object Oriented Programming like polymorphism, inheritance, and abstraction.  
