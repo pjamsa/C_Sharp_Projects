@@ -18,9 +18,6 @@ In this project I used C# and the MVC and ASP.NET framework to create a website 
 
 <h2>Twenty One</h2>
 This project contains a fully functioning card game of 21 using C# in a console application.  The game automatically shuffles cards and allows users to play the dealer as long as they have enough money.  This game contains many fundamentals of Object Oriented Programming like polymorphism, inheritance, and abstraction.  
-
-<h2>Student Database</h2>
-This project is a basic Entity Framework Code-First app that creates a basic Student database and adds one student to the database.
   
 <h2>Shipping Quote</h2>
 In this project I built a console app that asks the user for dimensions and weight of their package to determine whether they can ship it or not.  If the box is shippable the app will then give the user a shipping quote.
@@ -33,4 +30,7 @@ In this project I used a console app to ask users for information about their in
 
 <h2>Date Time</h2>
 This application displays the current Date and Time (DateTime.Now) and then asks the user to input a number.  The application then converts the user number into hours and adds them to the current time and displays the future time in the console.   
+  
+<h2>Student Database</h2>
+This project is a basic Entity Framework Code-First app that creates a basic Student database and adds one student to the database.
 
