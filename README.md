@@ -2,6 +2,17 @@
 
 <h3>Here are some projects I made using C# and the .NET framework.</h3>
   
-  <h4>Car_Insurance</h4>
+  <h2>Projects</h2>
   <ul>
-    <li>This project had users fill out a form online and would calculate an accurate car insurance quote based on the users age, vehicle, and driving record.</li>
+    <li>Car Insurance</li>
+    <li>Twenty One</li>
+    <li>Student Database</li>
+    <li>Shipping Quote</li>
+    <li>Daily Report</li>
+    <li>Income Program</li>
+  
+<h4>Car_Insurance</h4>
+This project has users fill out a form online and will calculate an accurate car insurance quote based on the user's age, vehicle, and driving record.
+
+<h4>Twenty One</h4>
+This project contains a fully functioning game of 21 using C# in a console application.  
