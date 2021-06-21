@@ -1,3 +1,5 @@
 <h1>BASIC C# PROJECTS<h1>
 
-<p>This repository will contain multiple basic C# projects created while attending the tech academy</p>
+<h3>Here are some projects I made using C# and the .NET framework.</h3>
+  
+  
