@@ -10,6 +10,7 @@
     <li>Shipping Quote</li>
     <li>Daily Report</li>
     <li>Income Program</li>
+  </ul>
   
 <h4>Car_Insurance</h4>
 This project has users fill out a form online and will calculate an accurate car insurance quote based on the user's age, vehicle, and driving record.
